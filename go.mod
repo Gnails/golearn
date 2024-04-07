@@ -1,4 +1,3 @@
-module main
-go 1.22.2
+module github.com/Gnails/golearn
 
-require "my"
+go 1.22.2

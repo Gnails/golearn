@@ -1,5 +1,5 @@
-package main 
-import my
-func main()  {
+package main
+
+func main() {
 	M()
 }
